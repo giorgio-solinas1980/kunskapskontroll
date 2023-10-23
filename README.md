@@ -1,2 +1,2 @@
 # numpy
-kunskapkontroll, numpy
+kunskapkontroll, numpy, matplotlib
